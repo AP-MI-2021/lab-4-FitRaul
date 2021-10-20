@@ -35,7 +35,7 @@ def show_list_if_even(lst1,lst2):
 
 def intersection(lst1, lst2):
     """
-    Face intersectia celor duoa liste
+    Face intersectia celor doua liste
     :param lst1: lst1
     :param lst2: lst2
     :return: result
